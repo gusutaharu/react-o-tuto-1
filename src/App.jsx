@@ -1,4 +1,5 @@
 import Square from "./components/Square";
+import "./App.css";
 
 export default function Board() {
   return (
